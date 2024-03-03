@@ -1,6 +1,6 @@
 ## How to use the project?
 
-1. Clone the github repository using "git clone https://github.com/RahulBattula/Zithara-Tech.git"
+1. Clone the github repository using "git clone https://github.com/HarshaBypilla/Zithara-Customer-Data-Project"
 
 2. use "cd frontend" to navigate into frontend folder and install all the required dependencies using "npm install"
 
